@@ -1,4 +1,4 @@
-# 
+# VIP AI Object Detection with TensorFlow.js scripts. Featuring real-time-processing and AI-ethics — optimized for maximum performance.
 
 
 
